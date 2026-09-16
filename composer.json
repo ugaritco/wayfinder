@@ -77,6 +77,5 @@
                 "Ugarit\\Wayfinder\\WayfinderServiceProvider"
             ]
         }
-    },
-    "version": "1.00.00"
+    }
 }
